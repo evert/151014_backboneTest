@@ -1,0 +1,13 @@
+
+.screen section{
+	display: none;
+}
+
+.screen section.active{
+	display: block;
+}
+
+.screen section img{
+	width: 500px;
+}
+
